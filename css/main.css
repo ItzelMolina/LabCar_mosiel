@@ -1,0 +1,111 @@
+/* Los estilos de tu proyecto */
+ div.navbar-header {
+  background-color: white;
+}
+
+ div.navbar-header > a {
+  padding-left: 10vw;
+}
+
+ div.navbar-header > button {
+  margin-left: 5vw;
+}
+
+ div.jumbotron_1 {
+  background-image: url("../assets/images/taxi.jpg");
+  background-position:100% 92%;
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: 0;
+  padding-top: 18vh;
+}
+
+div.jumbotron_2 {
+background-color: #f7b617;
+height: 70vh;
+margin-bottom: 0;
+}
+
+div.media {
+border-color: white;
+border-style: solid;
+}
+
+div.jumbotron_3 {
+background-image:url("../assets/images/conduce.jpg");
+background-size: cover;
+background-position:100% 92%;
+height: 80vh;
+}
+
+footer {
+color: white;
+background-color: black;
+height: auto;
+position: relative;
+}
+
+#bs-example-navbar-collapse-1 {
+  background-color: white;
+}
+
+.conduce {
+background-color: #000;
+color: white;
+filter: opacity(60%);
+}
+.col-md-4 {
+  background-color: #f7b617;
+  height: 60vh;
+}
+
+.col-md-4 > hr {
+	height: 1px;
+  width: 50%;
+}
+
+.col-md-4 > h2 {
+  text-align: justify;
+  font-weight: bolder;
+  color: white;
+  padding-bottom: 0px;
+}
+
+.col-md-4 > p {
+font-size: x-large;
+font-weight: bolder;
+color: white;
+white-space: nowrap;
+padding-top: 15px;
+}
+
+.col-md-4 > p > img {
+padding-bottom: 8px;
+width: 7vw;
+}
+
+.col-md-10 {
+background
+height: 70vh;
+margin-bottom: 0;
+}
+
+h2.media-body, p.media-body {
+text-align: justify;
+color: white;
+}
+
+.navbar.navbar-default {
+margin-bottom: 0;
+}
+
+.r-social {
+left: 3vw;
+position: relative;
+top:12vh;
+color: white;
+}
+
+body > div > footer > div > div > div:nth-child(3) {
+border-color: #2b2b2b;
+}
