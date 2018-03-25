@@ -5,4 +5,4 @@ Recrea la siguiente página web
 * Versión mobile
 * Modales
 
-![example](assets/imges/ejemplo.png)
+![example](assets/images/ejemplo.png)
